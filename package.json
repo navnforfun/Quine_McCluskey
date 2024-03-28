@@ -1,0 +1,18 @@
+{
+  "name": "quine_mccluskey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wds --node-resolve --open --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "danfojs": "^1.1.2"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.3"
+  }
+}
