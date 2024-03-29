@@ -215,3 +215,5 @@ function checkResult(listKq, listCheck, listEnd) {
 
 export { isLowerCase, shortBit, getBit, check1under, check2under, generateCombinations, checkResult };
 // XYZT+XYZt+xyzt+XYzT+xYZT+XYzt+XyZt+Xyzt+xyzT+xyzt
+// XYZT+XYZt+xyzt+XYzT+xYZT+XYzt+XyZt+xYzT+Xyzt+xyzT+xyzt
+// xyzu+xYzu+Xyzu+xYZu+XYzu+xYZU+XYZU
